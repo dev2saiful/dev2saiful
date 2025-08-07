@@ -17,15 +17,13 @@
 -  **[Python](https://github.com/dev2saiful/Python-Basic)** - It is complete course of Python Basic.
 
 ## 🌟 Featured Projects
-[![Breaking News](https://github-readme-stats.vercel.app/api/pin/?username=dev2saiful&repo=Breaking-News&cache_seconds=86400&theme=holi)](https://github.com/dev2saiful/breaking-news)
-[![Breaking News](https://github-readme-stats.vercel.app/api/pin/?username=dev2saiful&repo=Breaking-News&cache_seconds=86400&theme=holi)](https://github.com/dev2saiful/breaking-news)
-[![Breaking News](https://github-readme-stats.vercel.app/api/pin/?username=dev2saiful&repo=Breaking-News&cache_seconds=86400&theme=holi)](https://github.com/dev2saiful/breaking-news)
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=dev2saiful&repo=breaking-news&title_color=fe428a&text_color=ffffff&bg_color=141321&icon_color=00E6FE&border_color=fe428a)](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME)
+<!-- title_color=5ba4e5&text_color=ffffff&bg_color=03031485&icon_color=00E6FE&border_color=5b8fa9 -->
+[![Breaking News](https://github-readme-stats.vercel.app/api/pin/?username=dev2saiful&repo=Breaking-News&bg_color=03031485&cache_seconds=86400&theme=holi)](https://github.com/dev2saiful/breaking-news)
+[![Python](https://github-readme-stats.vercel.app/api/pin/?username=dev2saiful&repo=Python-Basic&bg_color=03031485&cache_seconds=86400&theme=holi)](https://github.com/dev2saiful/Python-Basic)
+[![Git Demo](https://github-readme-stats.vercel.app/api/pin/?username=dev2saiful&repo=git-demo&bg_color=03031485&cache_seconds=86400&theme=holi)](https://github.com/dev2saiful/git-demo)
+[![Breaking News](https://github-readme-stats.vercel.app/api/pin/?username=dev2saiful&repo=Breaking-News&bg_color=03031485&cache_seconds=86400&theme=holi)](https://github.com/dev2saiful/breaking-news)
 
-
-<p align="centre">
-  <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repositories-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
+[![All Repositories](https://img.shields.io/badge/ALL%20REPOSITORIES-1b4985?style=for-the-badge&logo=lvgl&logoColor=white)](https://github.com/dev2saiful?tab=repositories)
 
 ## ⚙️ SKILLS
 - ![Web](https://img.shields.io/badge/Web%20Development-%234285f4?style=flat-square&logo=devbox&logoColor=white) -
