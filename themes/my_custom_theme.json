@@ -1,0 +1,15 @@
+{
+  "title_color": "#5ba4e5",
+  "icon_color": "#00E6FE",
+  "text_color": "#586e75",
+  "bg_color": "#03031485",
+  "border_color": "#5b8fa9",
+  "ring_color": "#ff0000",
+  "chart_colors": [
+    "#b58900",  // Java
+    "#268bd2",  // TypeScript
+    "#cb4b16",  // Rust
+    "#6c71c4",  // Kotlin
+    "#2aa198"   // Go
+  ]
+}
