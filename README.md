@@ -25,6 +25,23 @@
 
 [![All Repositories](https://img.shields.io/badge/ALL%20REPOSITORIES-1b4985?style=for-the-badge&logo=lvgl&logoColor=white)](https://github.com/dev2saiful?tab=repositories)
 
+## ⚙️ Status
+<a> 
+    <a href="https://github.com/dev2saiful"><img alt="Saiful's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=dev2saiful&show_icons=true&count_private=true&theme=react&border_color=5b8fa9&bg_color=03031485&title_color=5ba4e5&icon_color=00E6FE" height="200px" width="49.5%"/></a>
+  <a href="https://github.com/dev2saiful"><img alt="Saiful's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=dev2saiful&langs_count=10&layout=compact&theme=react&border_color=5b8fa9&bg_color=03031485&title_color=5ba4e5&icon_color=F8D866" height="200px" width="49.5%"/></a>
+</a>
+<p align="center">
+  <a href="https://github.com/dev2saiful">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev2saiful&theme=radical&bg_color=03031485"/>
+  </a>
+</p>
+
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=dev2saiful&custom_title=Saiful%20Islam's%20GitHub%20Activity%20Graph&bg_color=03031485&color=7F3FBF&line=5ba4e5&point=5ba4e5&area_color=5ba4e5&title_color=5ba4e5&border_color=5ba4e5&area=true)
+
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=dev2saiful&theme=tokyo-night&bg_color=03031485&color=7F3FBF&line=5ba4e5&point=5ba4e5&area_color=5ba4e5&title_color=5ba4e5&border_color=5ba4e5&area=true)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dev2saiful&theme=react-dark)]
+
 ## ⚙️ SKILLS
 - ![Web](https://img.shields.io/badge/Web%20Development-%234285f4?style=flat-square&logo=devbox&logoColor=white) -
 ![PHP](https://img.shields.io/badge/PHP-%237377ad?style=flat-square&logo=php&logoColor=white)
