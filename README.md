@@ -28,11 +28,13 @@
 ## ⚙️ Status
 <a> 
     <a href="https://github.com/dev2saiful"><img alt="Saiful's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=dev2saiful&show_icons=true&count_private=true&theme=react&border_color=5b8fa9&bg_color=03031485&title_color=5ba4e5&icon_color=00E6FE" height="200px" width="49.5%"/></a>
+ 
   <a href="https://github.com/dev2saiful"><img alt="Saiful's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=dev2saiful&langs_count=10&layout=compact&theme=react&border_color=5b8fa9&bg_color=03031485&title_color=5ba4e5&icon_color=F8D866" height="200px" width="49.5%"/></a>
 </a>
+
 <p align="center">
   <a href="https://github.com/dev2saiful">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev2saiful&theme=radical&bg_color=03031485"/>
+    <img src="profile-summary-card-output/city_lights/0-profile-details.svg"/>
   </a>
 </p>
 
