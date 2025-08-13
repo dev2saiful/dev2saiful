@@ -9,15 +9,15 @@
 <!--𝑪𝑹𝑬𝑨𝑻𝑰𝑶𝑵𝑺 & 𝑪𝑶𝑵𝑻𝑹𝑰𝑩𝑼𝑻𝑰𝑶𝑵𝑺 -->
 ## 💡 CREATIONS & CONTRIBUTIONS 
 <ins>𝗖𝗨𝗥𝗥𝗘𝗡𝗧 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦:</ins>
--  **[Breaking News](https://github.com/dev2saiful/breaking-news)** - WordPress theme development project for News Channels, Blogs, Newspaper, and Magazine.
+-  **[Breaking News](https://github.com/dev2saiful/breaking-news)** - WordPress theme development project for `News Channels, Blogs, Newspaper, and Magazine.`
 
 <ins>𝗪𝗢𝗥𝗞-𝗶𝗻-𝗣𝗥𝗢𝗚𝗥𝗘𝗦𝗦:</ins>
--  **[Breaking News](https://github.com/dev2saiful/breaking-news)** - WordPress theme development project for News Channels, Blogs, Newspaper, and Magazine.
+-  **[Breaking News](https://github.com/dev2saiful/breaking-news)** - WordPress theme development project for `News Channels, Blogs, Newspaper, and Magazine.`
 
 <ins>𝗟𝗘𝗚𝗔𝗖𝗬 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦</ins>
--  **[Python](https://github.com/dev2saiful/Python-Basic)** - It is complete course of Python Basic.
+-  **[Python](https://github.com/dev2saiful/Python-Basic)** - It is a complete course of `Python Basic.`
 -  **[Git Demo](https://github.com/dev2saiful/git-demo)** - It is demo repo to learn Git & GitHub !
--  **[Python](https://github.com/dev2saiful/Python-Basic)** - It is complete course of Python Basic.
+-  **[Python](https://github.com/dev2saiful/Python-Basic)** - It is a complete course of `Python Basic.`
 
 <!--𝑭𝑬𝑨𝑻𝑼𝑹𝑬𝑫 𝑷𝑹𝑶𝑱𝑬𝑪𝑻𝑺-->
 ## 🌟 FEATURED PROJECTS
@@ -83,10 +83,9 @@
 >**Company Name**: [**Fara IT LTD**](https://faraitltd.com/ "Click To Visit")\
 Department: **WordPress Design & Development**\
 <ins><b>Accomplishments:</b></ins>\
-◑ Developed & launched [**15+ WordPress websites**](https://www.fiverr.com/users/dev2saiful/portfolio?roleIds= "Visit some projects") for various industries such as E-commerce, Wholesale, Real Estate, BPO company, E-learning, IT & Software, Digital Agency, Blogs, and 
-Personal Portfolio.\
-◑ Customized themes & implement proficiency of Elementor, Divi, and WP Bakery.  
-◑ Integrated key plugins, including WooCommerce, Yoast SEO, ACF, Slider Revolution, various payment gateways, etc.\
+◑ Developed & launched [**15+ WordPress websites**](https://www.fiverr.com/users/dev2saiful/portfolio?roleIds= "Visit some projects") for various industries such as `E-commerce, Wholesale, Real Estate, BPO company, E-learning, IT & Software, Digital Agency, Blogs, and Personal Portfolio.`\
+◑ Customized themes & implement proficiency of `Elementor, Divi, and WP Bakery.`  
+◑ Integrated key plugins, including `WooCommerce, Yoast SEO, ACF, Slider Revolution, & various payment gateways.`\
 ◑ Improve loading speed through WP-Rocket, image optimization, and caching techniques.\
 ◑ Managed website security, performed regular updates, and fixed bugs.\
 ◑ Provide technical support and training to clients on website management & updates.
@@ -127,4 +126,5 @@ Personal Portfolio.\
 [![Messenger Badge](https://img.shields.io/badge/Chat%20with%20Me-%230f81c2?style=flat&logo=Messenger&logoColor=white&labelColor=%2393003f)](https://m.me/sm2saiful/)
 ![Text Badge](https://img.shields.io/badge/or-white?style=flat)
 [![Gmail Badge](https://img.shields.io/badge/Send%20a%20Mail-%23ed9d07?style=flat&logo=maildotru&logoColor=white&labelColor=%2393003f)](mailto:dev2saiful@gmail.com)
+`CACHE_SECONDS`
 -->
