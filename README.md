@@ -45,9 +45,7 @@
  <!--
   <a href="https://github.com/dev2saiful"><img alt="Saiful's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=dev2saiful&langs_count=10&layout=compact&theme=react&border_color=5b8fa9&bg_color=03031485&title_color=5ba4e5&icon_color=F8D866" height="200px" width="49.5%"/></a>
  -->
-
- <a href="https://github.com/dev2saiful"><img alt="Saiful's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev2saiful&layout=donut&langs_count=10&bg_color=03031485&title_color=5ba4e5&text_color=ffffff&border_color=5b8fa9" height="200px" width="49.5%"/></a>
-
+ <a href="https://github.com/dev2saiful"><img alt="Saiful's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=dev2saiful&langs_count=10&layout=compact&theme=react&border_color=5b8fa9&bg_color=03031485&title_color=5ba4e5&icon_color=F8D866" height="200px" width="49.5%"/></a>
  <!--
  <a href="https://github.com/dev2saiful"><img alt="Saiful's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev2saiful&layout=pie&langs_count=10&bg_color=03031485&title_color=5ba4e5&text_color=ffffff&border_color=5b8fa9" height="200px" width="49.5%"/></a>
  -->
