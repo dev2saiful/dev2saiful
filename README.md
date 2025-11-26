@@ -45,7 +45,9 @@
  <!--
   <a href="https://github.com/dev2saiful"><img alt="Saiful's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=dev2saiful&langs_count=10&layout=compact&theme=react&border_color=5b8fa9&bg_color=03031485&title_color=5ba4e5&icon_color=F8D866" height="200px" width="49.5%"/></a>
  -->
+
  <a href="https://github.com/dev2saiful"><img alt="Saiful's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev2saiful&layout=donut&langs_count=10&bg_color=03031485&title_color=5ba4e5&text_color=ffffff&border_color=5b8fa9" height="200px" width="49.5%"/></a>
+
  <!--
  <a href="https://github.com/dev2saiful"><img alt="Saiful's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev2saiful&layout=pie&langs_count=10&bg_color=03031485&title_color=5ba4e5&text_color=ffffff&border_color=5b8fa9" height="200px" width="49.5%"/></a>
  -->
@@ -84,7 +86,7 @@
 Department: **WordPress Design & Development**\
 <ins><b>Accomplishments:</b></ins>\
 ◑ Developed & launched [**15+ WordPress websites**](https://www.fiverr.com/users/dev2saiful/portfolio?roleIds= "Visit some projects") for various industries such as `E-commerce, Wholesale, Real Estate, BPO company, E-learning, IT & Software, Digital Agency, Blogs, and Personal Portfolio.`\
-◑ Customized themes & implement proficiency of `Elementor, Divi, and WP Bakery.`  
+◑ Customised themes & implement proficiency of `Elementor, Divi, and WP Bakery.`  
 ◑ Integrated key plugins, including `WooCommerce, Yoast SEO, ACF, Slider Revolution, & various payment gateways.`\
 ◑ Improve loading speed through WP-Rocket, image optimization, and caching techniques.\
 ◑ Managed website security, performed regular updates, and fixed bugs.\
