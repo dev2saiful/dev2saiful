@@ -22,10 +22,11 @@
 <!--𝑭𝑬𝑨𝑻𝑼𝑹𝑬𝑫 𝑷𝑹𝑶𝑱𝑬𝑪𝑻𝑺-->
 ## 🌟 FEATURED PROJECTS
 <!-- title_color=5ba4e5&text_color=ffffff&bg_color=03031485&icon_color=00E6FE&border_color=5b8fa9 -->
-[![Breaking News](https://github-readme-stats.vercel.app/api/pin/?username=dev2saiful&repo=Breaking-News&bg_color=03031485&cache_seconds=86400&theme=holi)](https://github.com/dev2saiful/breaking-news)
-[![Python](https://github-readme-stats.vercel.app/api/pin/?username=dev2saiful&repo=Python-Basic&bg_color=03031485&cache_seconds=86400&theme=holi)](https://github.com/dev2saiful/Python-Basic)
-[![Git Demo](https://github-readme-stats.vercel.app/api/pin/?username=dev2saiful&repo=git-demo&bg_color=03031485&cache_seconds=86400&theme=holi)](https://github.com/dev2saiful/git-demo)
-[![Breaking News](https://github-readme-stats.vercel.app/api/pin/?username=dev2saiful&repo=Breaking-News&bg_color=03031485&cache_seconds=86400&theme=holi)](https://github.com/dev2saiful/breaking-news)
+[![RFID Solution](https://github-readme-stats.vercel.app/api/pin/?username=dev2saiful&repo=rfid-solution-wordpress&bg_color=03031485&cache_seconds=86400&theme=holi)](https://github.com/dev2saiful/rfid-solution-wordpress)
+[![EEFE](https://github-readme-stats.vercel.app/api/pin/?username=dev2saiful&repo=extend-elements-for-elementor&bg_color=03031485&cache_seconds=86400&theme=holi)](https://github.com/dev2saiful/extend-elements-for-elementor)
+[![Python](https://github-readme-stats.vercel.app/api/pin/?username=dev2saiful&repo=breaking-news&bg_color=03031485&cache_seconds=86400&theme=holi)](https://github.com/dev2saiful/breaking-news)
+[![Python](https://github-readme-stats.vercel.app/api/pin/?username=dev2saiful&repo=WPvivid-Backup-Migeation-Enhanced-Features&bg_color=03031485&cache_seconds=86400&theme=holi)](https://github.com/dev2saiful/WPvivid-Backup-Migeation-Enhanced-Features)
+
 
 <p align="left">
   <a href="https://github.com/dev2saiful?tab=repositories">
